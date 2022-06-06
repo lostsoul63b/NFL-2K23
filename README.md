@@ -19,20 +19,8 @@
 * ![YouTube](https://user-images.githubusercontent.com/69597675/124641345-9b5f3e80-de5c-11eb-80e3-4dc5fabc4137.png) [YouTube](https://www.youtube.com/lostsoul63b)
 * ![Twitter](https://user-images.githubusercontent.com/69597675/124641220-71a61780-de5c-11eb-8bd9-0c8c3ad46949.png) [Twitter](https://twitter.com/blostsou)
 ---------
-## Known Mod Issues:
-* **AVX2 Plug-in**:
-  * Some CPUs may not support this plugin
-* **Uniform, Stadium, Equip textures**:
-  * Current away sleeves share texture across LAC, NYG, IND, HOU
-  * BUF 69-73 & 74-75, ATL 66-67, TEN 74-75, IND 55-56, GB 03 Alt 1 share the same Jersey texture 1CABA18F
-
-If you find additional issues or have questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
-
----------
 ## ESPN NFL 2K23 - Installation
 This release will include the PS controller buttons by default. This will also include core GME Mods for Xbox controller buttons, broadcast networks and other core GME pkgs.
-
-### Download and run the setup.exe installer
 
 ## Available Releases
 | Platform | Version | Release Date  | Release Notes | Download | Tutorial |
@@ -43,18 +31,20 @@ This release will include the PS controller buttons by default. This will also i
 ---------
 ## Future Releases
 * **v1.7 (TBD)**
-
-
+ * Ported over to Dev emulator
+ * Broadcast Networks added
+ * Menu fonts updated
+ * Stadium refresh for several stadiums
 ---------
 ## MOD Team Credits
 **Special thanks and much** ![heart](https://user-images.githubusercontent.com/69597675/125808838-b20315aa-b53f-41a2-b31a-691d685fb1df.png) to the entire mod team that helped bring this mod to life!
 * LostsouL
 * xflamexofxhopex
 * Xevan
-* Orleans02
-* BAD_AL
 * CujoMatty
-* RateSports 
+* RateSports
+* BAD_AL
+* Orleans02 
 * BTZero
 * drhotwing
 * SteelPro43
@@ -64,7 +54,6 @@ This release will include the PS controller buttons by default. This will also i
 * Rick
 * Heavvy
 * MahomesMagic15
-
 
 ---------
 For help or questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
