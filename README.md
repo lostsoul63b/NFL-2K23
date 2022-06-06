@@ -31,7 +31,7 @@ This release will include the PS controller buttons by default. This will also i
 ---------
 ## Future Releases
 * **v1.7 (TBD)**
-  * Ported over to Dev emulator
+  * Ported over to 1.7 Dev Qt emulator
   * Broadcast Networks added
   * Stadium refresh for several stadiums
 
