@@ -30,11 +30,12 @@ This release will include the PS controller buttons by default. This will also i
 
 ---------
 ## Future Releases
-* **v1.7 (TBD)**
- * Ported over to Dev emulator
- * Broadcast Networks added
- * Menu fonts updated
- * Stadium refresh for several stadiums
+**v1.7 (TBD)**
+  * Ported over to Dev emulator
+  * Broadcast Networks added
+  * Menu fonts updated
+  * Stadium refresh for several stadiums
+
 ---------
 ## MOD Team Credits
 **Special thanks and much** ![heart](https://user-images.githubusercontent.com/69597675/125808838-b20315aa-b53f-41a2-b31a-691d685fb1df.png) to the entire mod team that helped bring this mod to life!
