@@ -2,7 +2,8 @@
 
 ## ![NFL2K23](https://user-images.githubusercontent.com/69597675/172192229-e194ff6d-7e77-4fb6-bf1c-cdc124283313.png)
 -----
-![GitHub](https://user-images.githubusercontent.com/69597675/172192810-286f8f8b-79af-4dfb-a04c-5110a2055b35.jpg)
+![c503141f9cf3cc60-17b59da5d4c8d5f9-00006653](https://user-images.githubusercontent.com/69597675/172194486-ae5b7ead-2085-4493-b44e-7a8b9ec43f4c.png)
+
 
 **Enjoy ESPN NFL 2K5 in a completely new way with updated uniforms, stadiums, logos, and more! We hope everyone enjoys playing NFL 2K5 Football again!**
 
