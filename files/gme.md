@@ -2,8 +2,6 @@
 -----
 ![c503141f9cf3cc60-17b59da5d4c8d5f9-00006653](https://user-images.githubusercontent.com/69597675/172194486-ae5b7ead-2085-4493-b44e-7a8b9ec43f4c.png)
 
-**Also checkout our Rosters**
-
 ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
 [Click here for this years NFL 2023 Rosters](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/Ratings.md)
 
