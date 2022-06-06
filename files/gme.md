@@ -1,6 +1,6 @@
 ## ![NFL2K23](https://user-images.githubusercontent.com/69597675/172192229-e194ff6d-7e77-4fb6-bf1c-cdc124283313.png)
 -----
-![GitHub](https://user-images.githubusercontent.com/69597675/155859995-b60e920f-502e-480e-bead-8b52bc08cab4.png)
+![c503141f9cf3cc60-17b59da5d4c8d5f9-00006653](https://user-images.githubusercontent.com/69597675/172194486-ae5b7ead-2085-4493-b44e-7a8b9ec43f4c.png)
 
 **Also checkout our Rosters**
 
@@ -14,12 +14,10 @@
 * ![Twitter](https://user-images.githubusercontent.com/69597675/124641220-71a61780-de5c-11eb-8bd9-0c8c3ad46949.png) [Twitter](https://twitter.com/blostsou)
 
 ---------
-## GME MOD Packages
-
-## Available MODS
-| Platform | Version | Release Date | Package Info | Download | Updated | Tutorial |
-| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | v1 |  | JSGME Base Utility | [Click-to-Download](https://www.mediafire.com/file/2ejkgnj5r5nb4hc/JSGME.zip/file) | | [Click-to-Watch]() |
+## Available JSGME MODS
+| Platform | Package Info | Download | Tutorial |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | JSGME Base Utility | [Click-to-Download](https://www.mediafire.com/file/2ejkgnj5r5nb4hc/JSGME.zip/file) | | [Click-to-Watch]() |
 
 
 ---------
@@ -32,17 +30,19 @@
 * LostsouL
 * xflamexofxhopex
 * Xevan
-* Orleans02
-* BAD_AL
 * CujoMatty
-* UXG
-* Rick
-* Heavvy
-* MahomesMagic15
+* RateSports
+* BAD_AL
+* Orleans02 
 * BTZero
 * drhotwing
 * SteelPro43
 * CCGames
+* MSweeets
+* djsteveo627
+* Rick
+* Heavvy
+* MahomesMagic15
 
 ---------
 For help or questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
