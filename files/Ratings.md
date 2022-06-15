@@ -24,11 +24,11 @@ _____
   * Ratings have been reduced 6% to address high overalls
 _____
 ## Roster Downloads
-| Roster Version | File Download | Notes |
-| :------------- | :-------------: | :------------- |
-| NFL 2K23 Offseason | [Ros](https://www.mediafire.com/file/7k0gisgxt316dlo/SLUS-20919_ESPN_NFL_2K5_CM2K23_832B3130.max/file) | Roster by JSK and CujoMatty |
-| NFL 2K23 Camp Roster | [Ros + Fran]() |  |
-
+| Roster Version | File Download | Notes | Tutorial |
+| :------------- | :-------------: | :------------- | :------------- |
+| NFL 2K23 Offseason | [Ros](https://www.mediafire.com/file/7k0gisgxt316dlo/SLUS-20919_ESPN_NFL_2K5_CM2K23_832B3130.max/file) | Roster by JSK and CujoMatty | Coming Soon |
+| NFL 2K23 Camp Roster | Ros + Fran |  |  |
+ 
 
 ## Tutorial
 Watch the video for help with this years rosters ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png) [Watch Now!]()
