@@ -25,7 +25,7 @@ This release will include the PS controller buttons by default. This will also i
 ## Available Releases
 | Platform | Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.7  | June 16, 2022  | [ReadMe](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/1.7ReadMe.txt)  | [Open Beta]() | [Tutorial]() |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.7  | June 16, 2022  | Open Beta  | [Beta]() | [Tutorial]() |
 | ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | *  |   | Xbox X/S support | * | [Tutorial]() |
 
 ---------
