@@ -26,7 +26,8 @@ _____
 ## Roster Downloads
 | Roster Version | File Download | Notes |
 | :------------- | :-------------: | :------------- |
-| NFL2K23 Camp Roster | [Ros + Fran]() |  |
+| NFL 2K23 Community Ros | [Ros](https://www.mediafire.com/file/7k0gisgxt316dlo/SLUS-20919_ESPN_NFL_2K5_CM2K23_832B3130.max/file) | Roster by JSK and CujoMatty |
+| NFL 2K23 Camp Roster | [Ros + Fran]() |  |
 
 
 ## Tutorial
