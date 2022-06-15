@@ -30,7 +30,7 @@ This release will include the PS controller buttons by default. This will also i
 
 ---------
 ## Future Releases
-* **v1.7 (TBD)**
+* **v1.7 Open Beta (6/16/2022)**
   * Ported over to 1.7 Dev Qt emulator
   * Broadcast Networks added
   * Stadium refresh for several stadiums
