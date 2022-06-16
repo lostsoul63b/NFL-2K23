@@ -17,11 +17,6 @@
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | JSGME Base Utility | [Click-to-Download](https://www.mediafire.com/file/2ejkgnj5r5nb4hc/JSGME.zip/file) | | [Click-to-Watch]() |
 
-
----------
-## Additional Information
-![Snag_3a0a27](https://user-images.githubusercontent.com/69597675/153773566-2fd6c293-4c25-4b92-b953-57a5d643eaed.png)
-
 ---------
 ## MOD Team Credits
 **Special thanks and much** ![heart](https://user-images.githubusercontent.com/69597675/125808838-b20315aa-b53f-41a2-b31a-691d685fb1df.png) to the entire mod team that helped bring this mod to life!
