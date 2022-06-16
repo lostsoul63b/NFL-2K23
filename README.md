@@ -20,7 +20,7 @@
 * ![Twitter](https://user-images.githubusercontent.com/69597675/124641220-71a61780-de5c-11eb-8bd9-0c8c3ad46949.png) [Twitter](https://twitter.com/blostsou)
 ---------
 ## ESPN NFL 2K23 - Installation
-This release will include the PS controller buttons by default. This will also include core GME Mods for Xbox controller buttons, broadcast networks and other core GME pkgs.
+Future releases will include the PS controller buttons by default. The Xbox controller buttons will be included as a GME Mod, along with other core GME Mods.
 
 ## Available Releases
 | Platform | Version | Release Date  | Release Notes | Download | Tutorial |
