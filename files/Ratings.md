@@ -3,6 +3,8 @@
 ## NFL 2023 Roster + Franchise (COMING SOON)
 ![2k231 - Copy](https://user-images.githubusercontent.com/69597675/173972939-d43b2b74-33e8-44c7-806e-5c4ee94d6f1d.jpg)
 
+***Cover ART by bloodycrows***
+
 ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
 [Click here for GME Mod Pkgs](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/gme.md)
 _____
