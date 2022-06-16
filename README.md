@@ -31,9 +31,9 @@ This release will include the PS controller buttons by default. This will also i
 ---------
 ## Future Releases
 * **v1.7 Open Beta (6/16/2022)**
-  * Exhibition 4 teams + offseason roster
-  * Falcons, Rams, Seahawks, Titans
-  * New PCSX2 interface
+  * New PCSX2 1.7 Qt interface
+  * 4 teams preview (Falcons, Rams, Seahawks, Titans)
+  * Offseason trade Roster
 
 ---------
 ## MOD Team Credits
