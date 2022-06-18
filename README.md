@@ -1,4 +1,4 @@
-# ESPN NFL 2K23 (Open Beta Available Now)
+# ESPN NFL 2K23 Football Resurrected
 
 ## ![NFL2K23](https://user-images.githubusercontent.com/69597675/172192229-e194ff6d-7e77-4fb6-bf1c-cdc124283313.png)
 -----
