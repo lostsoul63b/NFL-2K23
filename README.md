@@ -5,7 +5,7 @@
 ![c503141f9cf3cc60-17b59da5d4c8d5f9-00006653](https://user-images.githubusercontent.com/69597675/172194486-ae5b7ead-2085-4493-b44e-7a8b9ec43f4c.png)
 
 
-**Enjoy ESPN NFL 2K5 in a completely new way with updated uniforms, stadiums, logos, and more! The 2K5 Mod Team is providing PC Football to the community by sharing the experience we all want! We hope everyone enjoys playing NFL 2K5 Football again!**
+**The 2K5 Mod Team is providing PC Football to the community by sharing the experience we all want! Enjoy ESPN NFL 2K5 in a completely new way with updated uniforms, stadiums, logos, and more!**
 
 ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
 [Click here for this years NFL 2023 Rosters](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/Ratings.md)
@@ -29,15 +29,20 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 | Platform | Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.0  | June 16, 2022  | Open Beta  | [Beta](https://bit.ly/3xPYdVn) | [Tutorial](https://youtu.be/qhw43aLMqpc) |
-| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | TBD  |   | Xbox X/S support | TBD |  |
+| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | v1.0  |   | Xbox X/S support | TBD |  |
+| ![android](https://user-images.githubusercontent.com/69597675/177371512-f864b1cc-8ad2-470c-a3be-7983edbb3f19.png) | v1.0  |   | Android support | TBD |  |
 
 ---------
 ## Future Releases
-* **v1.7 Open Beta (6/16/2022)**
-  * Textures for the Falcons, Rams, Seahawks and Titans
-  * Offseason trade roster file (by JSK + CujoMatty)
-  * 1.7 PCSX2 Qt Dev Build
-  * Xbox controller GME Mod
+* **NFL 2K23 v1.0 (7/14/2022)**
+  * New Easy Installer
+  * New Network Broadcasts
+  * New Menus + fonts
+  * New PCSX2 Qt Interface
+  * Native Jersey font support
+  * Refreshed stadiums
+  * Offseason Roster (by JSK + CujoMatty)
+  * Xbox + Stadia controller options
   * Best NFL Football experience on the market :sunglasses:﻿ 
 
 ---------
