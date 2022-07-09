@@ -30,6 +30,10 @@
 * BAD_AL
 * Orleans02 
 * BTZero
+* Daflyboys
+* tanner1975
+* TarHeelPhenom
+* ChargingBuck
 * drhotwing
 * SteelPro43
 * CCGames
@@ -37,7 +41,6 @@
 * djsteveo627
 * Rick
 * Heavvy
-* MahomesMagic15
 
 ---------
 For help or questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
