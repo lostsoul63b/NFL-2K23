@@ -23,7 +23,7 @@ _____
   * Updated Coaches
   * Updated Free Agents
   * Bumped Franchise Salary Cap $198.2M
-  * Franchise Includes 2022 Schedule
+  * Franchise Includes 2023 Schedule
   * Includes *.dat, *.max, *.psv formats
   * Ratings have been reduced 6% to address high overalls
 _____
