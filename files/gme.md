@@ -2,7 +2,7 @@
 
 ## ![NFL2K23](https://user-images.githubusercontent.com/69597675/172192229-e194ff6d-7e77-4fb6-bf1c-cdc124283313.png)
 -----
-![c503141f9cf3cc60-17b59da5d4c8d5f9-00006653](https://user-images.githubusercontent.com/69597675/172194486-ae5b7ead-2085-4493-b44e-7a8b9ec43f4c.png)
+![2K23v1](https://user-images.githubusercontent.com/69597675/179023339-2e2be42e-7aa9-4d89-8696-aa22b56f12b5.jpg)
 
 ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
 [Click here for this years NFL 2023 Rosters](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/Ratings.md)
