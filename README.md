@@ -2,11 +2,9 @@
 
 ## ![2K23v1](https://user-images.githubusercontent.com/69597675/179018251-daf39118-895f-46ee-bf12-c5639366bd8c.jpg)
 
------
-![c503141f9cf3cc60-17b59da5d4c8d5f9-00006653](https://user-images.githubusercontent.com/69597675/172194486-ae5b7ead-2085-4493-b44e-7a8b9ec43f4c.png)
-
-
 **The 2K5 Mod Team is providing PC Football to the community by sharing the experience we all want! Enjoy ESPN NFL 2K5 in a completely new way with updated uniforms, stadiums, logos, and more!**
+
+-----
 
 ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
 [Click here for this years NFL 2023 Rosters](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/Ratings.md)
