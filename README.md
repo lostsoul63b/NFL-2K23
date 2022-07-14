@@ -1,6 +1,7 @@
 # ESPN NFL 2K23 - Football Resurrected
 
-## ![NFL2K23](https://user-images.githubusercontent.com/69597675/172192229-e194ff6d-7e77-4fb6-bf1c-cdc124283313.png)
+## ![2K23v1](https://user-images.githubusercontent.com/69597675/179018251-daf39118-895f-46ee-bf12-c5639366bd8c.jpg)
+
 -----
 ![c503141f9cf3cc60-17b59da5d4c8d5f9-00006653](https://user-images.githubusercontent.com/69597675/172194486-ae5b7ead-2085-4493-b44e-7a8b9ec43f4c.png)
 
