@@ -27,9 +27,9 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 ## Available Releases
 | Platform | Mod Version | PCSX2 Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.0 | AVX2 Qt v1.7.2868 | July 14, 2022  |   | [Beta](https://bit.ly/3xPYdVn) | [Tutorial]() |
-| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | v1.0 |  |   | Xbox X/S support | TBD |  |
-| ![android](https://user-images.githubusercontent.com/69597675/177371512-f864b1cc-8ad2-470c-a3be-7983edbb3f19.png) | v1.0 |  |   | Android support | TBD |  |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v1.0 | AVX2 Qt v1.7.2868 | July 14, 2022  |   | [Click Here](https://bit.ly/3xPYdVn) | [Tutorial]() |
+| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | v1.0 |AVX2 Qt v1.7.2868 | July 14, 2022| Xbox X/S support | TBD |  |
+| ![android](https://user-images.githubusercontent.com/69597675/177371512-f864b1cc-8ad2-470c-a3be-7983edbb3f19.png) | v1.0 |AVX2 Qt v1.7.2868 | July 14, 2022| Android support | TBD |  |
 
 ---------
 ## Future Releases
