@@ -40,8 +40,8 @@ Future releases will include the PS controller buttons by default. The Xbox cont
   * New PCSX2 Qt Interface
   * Native Jersey font support
   * Refreshed stadiums
-  * Offseason Roster (by JSK + CujoMatty)
-  * Xbox + Stadia controller options
+  * Updated Uniforms (all 32 teams)
+  * Offseason Roster
   * Best NFL Football experience on the market :sunglasses:﻿ 
 
 ---------
