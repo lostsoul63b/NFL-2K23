@@ -1,0 +1,14 @@
+V1.1
+- Fixed .INI mapping for Triggers and Shoulder Buttons
+- Added Broadcast Packages for fast-swapping
+- Fixed Broadcast Replay Image issue
+- Added Overrides Folder
+- Updated Fonts
+- Updated Bills, Cowboys, Lions Fields by CujoMatty
+- Updated Patrick Mahomes, Travis Kelce Cyberface by CujoMatty
+- Added Beautiful Endzones by Ratesports
+- Added Bucs White Pants Override
+- Added Original Falcons Design (Xbox will share the sleeve texture, so this is a way around it)
+
+V1.0
+- Original Release
