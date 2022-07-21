@@ -1,4 +1,9 @@
-V1.1
+v1.1.1
+- Cujo’s amazing cyberface work 
+- New folder structure
+- Ability to “patch” and update if you already installed 1.1
+
+v1.1
 - Fixed .INI mapping for Triggers and Shoulder Buttons
 - Added Broadcast Packages for fast-swapping
 - Fixed Broadcast Replay Image issue
