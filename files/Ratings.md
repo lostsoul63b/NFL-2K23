@@ -2,7 +2,7 @@
 
 ## ![NFL2K23](https://user-images.githubusercontent.com/69597675/172192229-e194ff6d-7e77-4fb6-bf1c-cdc124283313.png)
 
-## NFL 2023 Roster + Franchise (COMING SOON)
+## NFL 2023 Roster + Franchise
 ![2k231 - Copy](https://user-images.githubusercontent.com/69597675/173972939-d43b2b74-33e8-44c7-806e-5c4ee94d6f1d.jpg)
 
 ***Cover ART by [bloodycrows](https://mobile.twitter.com/abid_nabawi)***
@@ -31,7 +31,7 @@ _____
 | Roster Version | File Download | Notes | Tutorial |
 | :------------- | :-------------: | :------------- | :------------- |
 | NFL 2023 Offseason | [Ros](https://www.mediafire.com/file/4mlenj0xjtd2meb/SLUS-20919_ESPN_NFL_2K5_CMjuly22_98B9DF4E.max/file) | Roster by JSK and CujoMatty |  |
-| NFL 2023 Camp Roster |  |  |  |
+| NFL 2023 Camp Roster | [Ros](https://www.mediafire.com/file/gzl20hc7lpaln13/NFL2023_CampRatings.zip/file) | M23 launch ratings |  |
  
 _____
 ## Installation
