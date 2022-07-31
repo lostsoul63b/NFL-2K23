@@ -12,7 +12,6 @@
 _____
 
 ### NFL 2023 Ros + Fran Details
-  * Ratings based on Madden 23 Ratings
   * Full 53 Player Rosters
   * Updated Player Equipment
   * Updated Player photos
@@ -20,12 +19,13 @@ _____
   * Updated PBP  
   * Updated City for OAK, STL, SD teams (L.Vegas Raiders, L.Angeles Chargers, L.Angeles Rams)
   * Updated in-game scoreboard for Chargers (LA), Raiders (LVR), Rams (LAR)
+  * Updated Redskins to WFB Team
   * Updated Coaches
   * Updated Free Agents
   * Bumped Franchise Salary Cap $198.2M
   * Franchise Includes 2023 Schedule
-  * Includes *.dat, *.max, *.psv formats
-  * Ratings have been reduced 6% to address high overalls
+  * Includes Xbox, PS2, PS3 formats
+  * Global attribute reduction
 _____
 ## Roster Downloads
 | Roster Version | File Download | Notes | Tutorial |
