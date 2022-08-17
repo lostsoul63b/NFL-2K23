@@ -37,7 +37,6 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 ---------
 ## Future Releases
 * **NFL 2K23 v2.0 (TBD)**
-  * Added GME Cyberfaces for star players
   * Added GME Player Portraits for roster
   * Added Saints fan Jersey
   * Added Chargers Stadium GME
