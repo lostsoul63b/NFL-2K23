@@ -31,7 +31,7 @@ _____
 | Roster Version | File Download | Notes | Tutorial |
 | :------------- | :-------------: | :------------- | :------------- |
 | NFL 2023 Offseason | [Ros](https://www.mediafire.com/file/4mlenj0xjtd2meb/SLUS-20919_ESPN_NFL_2K5_CMjuly22_98B9DF4E.max/file) | Roster by JSK and CujoMatty |  |
-| NFL 2023 Camp Roster | [Ros + Fran](https://www.mediafire.com/file/gzl20hc7lpaln13/NFL2023_CampRatings.zip/file) | M23 launch ratings | [Watch](https://youtu.be/2D6xDZzjo3Y) |
+| NFL 2023 Preseason | [Ros + Fran](https://www.mediafire.com/file/gzl20hc7lpaln13/NFL2023_CampRatings.zip/file) | M23 launch ratings | [Watch](https://youtu.be/2D6xDZzjo3Y) |
  
 _____
 ## Installation
