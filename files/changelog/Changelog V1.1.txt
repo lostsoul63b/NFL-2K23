@@ -1,3 +1,33 @@
+v2.0
+ - Added GME Player Portraits for roster
+ - Added Saints fan Jersey
+ - Added Chargers Stadium GME
+ - Added Raiders Allegiant Dome Stadium
+ - Added Cardinals State Farm Dome Stadium
+ - Added addt'l sky textures
+ - Updated all 32 teams helmets (Speedflex + SchuttF7)
+ - Updated equipment
+ - Updated all generic Skin + Face textures
+ - Updated CBS broadcast
+ - Updated Bengals stadium ads
+ - Updated Bengals snow endzones
+ - Updated shared stadium fields
+ - Updated stadium logos (SF, JAX, NE)
+ - Updated shared gloves
+ - Fixed Texans sleeves
+ - Fixed Broncos sleeves
+
+Xbox X/S Exclusives
+ - All helmet designs redone from scratch 
+ - Skin textures redone from scratch
+ - CBS Style Team Select Graphics
+ - Updated 49ers sleeve stripe
+ - Updates to Bucs pant styling, stitching, collar
+ - Cardinals Remix Away Jerseys added to Overrides
+ - New INI that enables two controllers on Xbox
+ - Added “Safe Exit” app for Dev Mode users to install
+ - Updated Splash Screen, Loading Screens
+ 
 v1.1.1
 - Cujo’s amazing cyberface work 
 - New folder structure
