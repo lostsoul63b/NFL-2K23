@@ -27,7 +27,7 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 #### *Support for both AVX2 and SSE4 instruction sets, so players with older CPUs don't have to miss out.*
 
 ## Available Releases
-| Platform | Mod Version | PCSX2 Version | Release Date  | Release Notes | Download | Tutorial |
+| Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v2.0 | AVX2 Qt v1.7.2868 | August 19, 2022  | [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv2.0.txt)  | [PC Full Install](https://www.mediafire.com/file/iki2tuqddh9k114/NFL2K23_v2.0_Setup.zip/file) | [Tutorial](https://youtu.be/NbRVVckw8tc) |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v2.0 | AVX2 Qt v1.7.2868| August 19, 2022  |  [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv2.0.txt) | [PC Update Only](https://www.mediafire.com/file/pij4q8s4xw74n3s/NFL2K23_v2.0_Update.zip/file) | [Tutorial](https://youtu.be/NbRVVckw8tc) |
