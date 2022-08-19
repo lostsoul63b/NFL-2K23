@@ -2,7 +2,7 @@
 
 ## ![NFL2K23](https://user-images.githubusercontent.com/69597675/172192229-e194ff6d-7e77-4fb6-bf1c-cdc124283313.png)
 -----
-![2K23-07142022](https://user-images.githubusercontent.com/69597675/179020721-2dcf8f4a-7508-4604-8bca-f86a706bd09f.jpg)
+![NFL2K23-2 0](https://user-images.githubusercontent.com/69597675/185676873-aeacb3bc-c2cc-45a5-8e77-cad74b3f9e93.jpg)
 
 **The 2K5 Mod Team is providing PC Football to the community by sharing the experience we all want! Enjoy ESPN NFL 2K5 in a completely new way with updated uniforms, stadiums, logos, and more!**
 
@@ -29,10 +29,10 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 ## Available Releases
 | Platform | Mod Version | PCSX2 Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v2.0 | AVX2 Qt v1.7.2868 | August 18, 2022  | [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv2.0.txt)  | [PC Full Install]() | [Tutorial](https://youtu.be/ue1jz1c-GhY) |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v2.0 | AVX2 Qt v1.7.2868| August 18, 2022  |  [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv2.0.txt) | [PC Update Only]() | [Tutorial](https://youtu.be/ue1jz1c-GhY) |
-| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | v2.0 | N/A | August 18, 2022 | [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/Changelog%20V1.1.txt) | [Xbox]() | [Tutorial](https://youtu.be/VT6Xvg5YHWo) |
-| ![android](https://user-images.githubusercontent.com/69597675/177371512-f864b1cc-8ad2-470c-a3be-7983edbb3f19.png) | v2.0 | N/A | August 18, 2022|  | [Android]() | [Tutorial](https://youtu.be/uWMSRrcT554) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v2.0 | AVX2 Qt v1.7.2868 | August 19, 2022  | [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv2.0.txt)  | [PC Full Install](https://www.mediafire.com/file/iki2tuqddh9k114/NFL2K23_v2.0_Setup.zip/file) | [Tutorial](https://youtu.be/NbRVVckw8tc) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v2.0 | AVX2 Qt v1.7.2868| August 19, 2022  |  [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv2.0.txt) | [PC Update Only](https://www.mediafire.com/file/pij4q8s4xw74n3s/NFL2K23_v2.0_Update.zip/file) | [Tutorial](https://youtu.be/NbRVVckw8tc) |
+| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | v2.0 | N/A | August 19, 2022 | [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/Changelog%20V1.1.txt) | [Xbox](https://www.mediafire.com/file/h8h92et3sv8pv4v/NFL2K23+-+XSX+V2.zip/file) | [Tutorial](https://youtu.be/VT6Xvg5YHWo) |
+| ![android](https://user-images.githubusercontent.com/69597675/177371512-f864b1cc-8ad2-470c-a3be-7983edbb3f19.png) | v2.0 | N/A | August 19, 2022|  | [Android](https://www.mediafire.com/file/2fcijgbfyz717lt/NFL2K23_Android_v2.0.zip/file) | [Tutorial](https://youtu.be/uWMSRrcT554) |
 
 ---------
 ## Future Releases
