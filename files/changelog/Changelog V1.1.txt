@@ -17,7 +17,7 @@ v2.0
  - Fixed Texans sleeves
  - Fixed Broncos sleeves
 
-Xbox X/S Exclusives
+v2.0 Xbox X/S Exclusives
  - All helmet designs redone from scratch 
  - Skin textures redone from scratch
  - CBS Style Team Select Graphics
