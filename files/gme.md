@@ -18,7 +18,7 @@
 | Platform | Package Info | Download | Tutorial |
 | :------------- | :------------- | :------------- | :------------- |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Generic Mod Enabler | [Download](https://www.mediafire.com/file/2ejkgnj5r5nb4hc/JSGME.zip/file) | | [Click-to-Watch]() |
-| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Alternate Uniforms | [Download](https://drive.google.com/file/d/1jJfSWi18UnviEyrsfUpOPMyg4M3Hm72k/view?usp=sharing) | | [Click-to-Watch]() |
+| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Alternate Uniforms | [Download](https://drive.google.com/file/d/1KrtNF6BrmsDxnNvNItDK7uT0E6juktsx/view?usp=sharing) | | [Click-to-Watch]() |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Custom Endzones | [Download](https://www.mediafire.com/file/a5qvslyae4r3brs/GME_Endzones.zip/file) | | [Click-to-Watch]() |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Uniform- Texans Red | [Download](https://www.mediafire.com/file/z9gk9qazn4do8gh/Uni_Houston_Texans_Battle_Red.zip/file) | | [Click-to-Watch]() |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Uniform- Bears Orange | [Download](https://www.mediafire.com/file/tgdjvuredhlf3yx/Uni_Chicago_Bears_Orange.zip/file) | | [Click-to-Watch]() |
