@@ -8,10 +8,10 @@
 NFL 2K4 is very similar to 2K5 and features a stellar run game. Some issues that plague 2K5 are not present in 2K4. It runs exceptionally well on Xbox and it’s another, fully updated football option.
 
 ### Are the rosters updated?
-Thanks to @GillBoldberg, yes, they are . They are included in this release. Player portraits and cyberfaces are not available at this time. I would actually encourage the community to not focus on this, as it will probably lead to wasted effort. We need to assign portraits in a smart way first, before venturing into replacements.
+Thanks to GillBoldberg, yes, they are . They are included in this release. Player portraits and cyberfaces are not available at this time. I would actually encourage the community to not focus on this, as it will probably lead to wasted effort. We need to assign portraits in a smart way first, before venturing into replacements.
 
 ### Is this the same as NFL 2K23 AKA NFL 2K5 Resurrected?
-In some ways, yes, in others no. I have personally created thousands of textures for this release, including all jerseys, helmets, socks, fonts, menus and much more. The remaining textures have been ported from NFL 2K23 by myself and members of our mod team.
+In some ways, yes, in others no. RateSports personally created thousands of textures for this release, including all jerseys, helmets, socks, fonts, menus and much more. The remaining textures have been ported from NFL 2K23 by himself and members of the mod team.
 
 ### How does this perform on Xbox Series X|S?
 Extremely, extremely well. Crashing is much less frequent, so this is 100% the preferred game for console players.
