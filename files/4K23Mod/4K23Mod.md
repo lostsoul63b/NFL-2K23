@@ -21,7 +21,7 @@ Extremely, extremely well. Crashing is much less frequent, so this is 100% the p
 ## Download
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R1 | AVX2 | September 1, 2022  |  | [Add-on](https://www.mediafire.com/file/iki2tuqddh9k114/NFL2K23_v2.0_Setup.zip/file) | [Tutorial](https://youtu.be/NbRVVckw8tc) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R1 | AVX2 | September 1, 2022  |  | [Add-on]() | [Tutorial](https://youtu.be/NbRVVckw8tc) |
 | ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | R1 | N/A | August 31, 2022 |  | [Xbox](https://www.mediafire.com/file/k8hcj421904ri2y/NFL_4K23_-_Release_One.zip/file) | [Tutorial](https://youtu.be/H4E_zucf3IU) |
 
 ---------
