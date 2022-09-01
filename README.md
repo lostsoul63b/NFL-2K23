@@ -19,7 +19,7 @@
 * ![YouTube](https://user-images.githubusercontent.com/69597675/124641345-9b5f3e80-de5c-11eb-80e3-4dc5fabc4137.png) [YouTube](https://www.youtube.com/lostsoul63b)
 * ![Twitter](https://user-images.githubusercontent.com/69597675/124641220-71a61780-de5c-11eb-8bd9-0c8c3ad46949.png) [Twitter](https://twitter.com/blostsou)
 ---------
-## ESPN NFL 2K23 - Installation
+## ESPN NFL 2K23 - Download
 Future releases will include the PS controller buttons by default. The Xbox controller buttons will be included as a GME Mod, along with other core GME Mods.
 
 #### *Support for both AVX2 and SSE4 instruction sets, so players with older CPUs don't have to miss out.*
