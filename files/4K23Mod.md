@@ -1,10 +1,20 @@
 # ESPN NFL Football (NFL 4K23)
 
-## ![NFL2K23](https://user-images.githubusercontent.com/69597675/172192229-e194ff6d-7e77-4fb6-bf1c-cdc124283313.png)
 -----
-![NFL2K23-2 0](https://user-images.githubusercontent.com/69597675/185676873-aeacb3bc-c2cc-45a5-8e77-cad74b3f9e93.jpg)
+![IMG_1352-3](https://user-images.githubusercontent.com/69597675/187811888-e5be7de4-d71f-4848-ae72-c2d9fca8e9dc.jpg)
 
-**The 2K5 Mod Team is providing PC Football to the community by sharing the experience we all want! Enjoy ESPN NFL 2K5 in a completely new way with updated uniforms, stadiums, logos, and more!**
+
+### Why would I play this when 2K5 exists?
+NFL 2K4 is very similar to 2K5 and features a stellar run game. Some issues that plague 2K5 are not present in 2K4. It runs exceptionally well on Xbox and it’s another, fully updated football option.
+
+### Are the rosters updated?
+Thanks to @GillBoldberg, yes, they are . They are included in this release. Player portraits and cyberfaces are not available at this time. I would actually encourage the community to not focus on this, as it will probably lead to wasted effort. We need to assign portraits in a smart way first, before venturing into replacements.
+
+### Is this the same as NFL 2K23 AKA NFL 2K5 Resurrected?
+In some ways, yes, in others no. I have personally created thousands of textures for this release, including all jerseys, helmets, socks, fonts, menus and much more. The remaining textures have been ported from NFL 2K23 by myself and members of our mod team.
+
+### How does this perform on Xbox Series X|S?
+Extremely, extremely well. Crashing is much less frequent, so this is 100% the preferred game for console players.
 
 ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
 [Click here for this years NFL 2023 Rosters](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/Ratings.md)
