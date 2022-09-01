@@ -1,8 +1,6 @@
 # ESPN NFL 2K23 - Football Resurrected
 
-## ![NFL2K23](https://user-images.githubusercontent.com/69597675/172192229-e194ff6d-7e77-4fb6-bf1c-cdc124283313.png)
------
-![NFL2K23-2 0](https://user-images.githubusercontent.com/69597675/185676873-aeacb3bc-c2cc-45a5-8e77-cad74b3f9e93.jpg)
+![2K23GH](https://user-images.githubusercontent.com/69597675/187812122-057fc7e0-0409-4d06-9828-417b87858845.jpg)
 
 **The 2K5 Mod Team is providing PC Football to the community by sharing the experience we all want! Enjoy ESPN NFL 2K5 in a completely new way with updated uniforms, stadiums, logos, and more!**
 
