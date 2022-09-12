@@ -39,39 +39,8 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 
 ---------
 ## Future Releases
-* **NFL 2K23 v2.0 (8/19/2022)**
-  * Added GME Player Portraits for roster
-  * Added Saints fan Jersey
-  * Added Chargers Stadium GME
-  * Added Raiders Allegiant Dome Stadium
-  * Added Cardinals State Farm Dome Stadium
-  * Added addt'l sky textures
-  * Updated all 32 teams helmets (Speedflex + SchuttF7)
-  * Updated equipment
-  * Updated all generic Skin + Face textures
-  * Updated CBS broadcast
-  * Updated Bengals stadium ads
-  * Updated Bengals snow endzones
-  * Updated shared stadium fields
-  * Updated stadium logos (SF, JAX, NE)
-  * Updated shared gloves
-  * Fixed Texans sleeves
-  * Fixed Broncos sleeves
-  * ***Xbox ONLY*** - Cardinals Remix Away Jerseys added to Overrides
-  * ***Xbox ONLY*** - New INI that enables two controllers on Xbox
-  * ***Xbox ONLY*** - Added “Safe Exit” app for Dev Mode users to install
-  * ***Xbox ONLY*** - Updated Splash Screen, Loading Screens
-
-* **NFL 2K23 v1.0 (7/14/2022)**
-  * New Easy Installer
-  * New Network Broadcasts
-  * New Menus + fonts
-  * New PCSX2 Qt Interface
-  * Native Jersey font support
-  * Refreshed stadiums
-  * Updated Uniforms (all 32 teams)
-  * Offseason Roster
-  * Best NFL Football experience on the market :sunglasses:﻿ 
+* **NFL 2K23 v3.0 (TBD)**
+  * Details Soon
 
 ---------
 ## MOD Team Credits
