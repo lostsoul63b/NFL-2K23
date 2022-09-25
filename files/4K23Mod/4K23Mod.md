@@ -22,9 +22,9 @@ Extremely, extremely well. Crashing is much less frequent, so this is 100% the p
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R1 | AVX2 | September 2, 2022  |  | [Add-on](https://www.mediafire.com/file/cmme4ba0yetyuii/NFL4K23_Release_One.zip/file) | [Tutorial](https://youtu.be/iL2WJdnyoMU) |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R1 Patch | AVX2 | September 2, 2022  |  | [Add-on](https://www.mediafire.com/file/j8zxsezj4kee9p1/NFL_4K23_Release_One_Patch.zip/file) | [Tutorial](https://youtu.be/iL2WJdnyoMU) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R1 Patch | AVX2 | September 25, 2022  |  | [Add-on](https://www.mediafire.com/file/j8zxsezj4kee9p1/NFL_4K23_Release_One_Patch.zip/file) | [Tutorial](https://youtu.be/iL2WJdnyoMU) |
 | ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | R1 | N/A | August 31, 2022 |  | [Xbox](https://www.mediafire.com/file/k8hcj421904ri2y/NFL_4K23_-_Release_One.zip/file) | [Tutorial](https://youtu.be/H4E_zucf3IU) |
-| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | R1 Patch | N/A | August 31, 2022 |  | [Xbox](https://www.mediafire.com/file/3gxtdv4a1kebbju/Release+One+Patch.zip/file) | [Tutorial](https://youtu.be/H4E_zucf3IU) |
+| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | R1 Patch | N/A | September 16, 2022 |  | [Xbox](https://www.mediafire.com/file/3gxtdv4a1kebbju/Release+One+Patch.zip/file) | [Tutorial](https://youtu.be/H4E_zucf3IU) |
 
 ---------
 ## Available JSGME MODS
