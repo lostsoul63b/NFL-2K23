@@ -11,6 +11,9 @@
 [Click here for GME Mods](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/gme.md)
 
 ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
+[Click here for 2K5 Draft Class Tool](https://github.com/2k5master/ESPN-NFL-2K5-Draft-Class-Generator)
+
+![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
 [Click here for H2H League Standings](https://bit.ly/3OscwoO)
 
 ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
