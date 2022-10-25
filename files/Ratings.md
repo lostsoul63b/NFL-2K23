@@ -16,9 +16,11 @@ _____
   * Updated Player Equipment
   * Updated Player photos
   * Updated Depth Charts
+  * Updated Draft Class
   * Updated PBP  
   * Updated City for OAK, STL, SD teams (L.Vegas Raiders, L.Angeles Chargers, L.Angeles Rams)
   * Updated in-game scoreboard for Chargers (LA), Raiders (LVR), Rams (LAR)
+  * Updated Stadiums (Allegiant, St. Farm)
   * Updated Redskins to WFB Team
   * Updated Coaches
   * Updated Free Agents
@@ -32,7 +34,7 @@ _____
 | :------------- | :-------------: | :------------- | :------------- |
 | NFL 2023 Offseason | [Ros](https://www.mediafire.com/file/4mlenj0xjtd2meb/SLUS-20919_ESPN_NFL_2K5_CMjuly22_98B9DF4E.max/file) | Roster by JSK and CujoMatty |  |
 | NFL 2023 Preseason | [Ros + Fran](https://www.mediafire.com/file/gzl20hc7lpaln13/NFL2023_CampRatings.zip/file) | M23 launch ratings | [Watch](https://youtu.be/2D6xDZzjo3Y) |
-| NFL 2023 Week 1 |  | Week 1 Madden Ratings |  |
+| NFL 2023 Week 1 | [Ros + Fran](https://www.mediafire.com/file/dap81b057ls5ac3/NFL2023_Week1Ratings.zip/file) | Week 1 Madden Ratings |  |
  
 _____
 ## Installation
