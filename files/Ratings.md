@@ -35,6 +35,7 @@ _____
 | NFL 2023 Offseason | [Ros](https://www.mediafire.com/file/4mlenj0xjtd2meb/SLUS-20919_ESPN_NFL_2K5_CMjuly22_98B9DF4E.max/file) | Roster by JSK and CujoMatty |  |
 | NFL 2023 Preseason | [Ros + Fran](https://www.mediafire.com/file/gzl20hc7lpaln13/NFL2023_CampRatings.zip/file) | M23 launch ratings | [Camp Vid](https://youtu.be/2D6xDZzjo3Y) |
 | NFL 2023 Week 1 | [Ros + Fran](https://www.mediafire.com/file/dap81b057ls5ac3/NFL2023_Week1Ratings.zip/file) | Week 1 Madden Ratings | [Week 1 Vid](https://youtu.be/qyNHOAFul4o) |
+| NFL 2023 Week 7 | [Ros + Fran](https://www.mediafire.com/file/ab9qk64gsrngun5/NFL2023_Week7Ratings.zip/file) | Week 7 Madden Ratings | [Week 1 Vid](https://youtu.be/qyNHOAFul4o) |
  
 _____
 ## Installation
