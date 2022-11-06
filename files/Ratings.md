@@ -17,16 +17,15 @@ _____
   * Updated Player photos
   * Updated Depth Charts
   * Updated Draft Class
+  * Updated Free Agents
   * Updated PBP  
   * Updated City for OAK, STL, SD teams (L.Vegas Raiders, L.Angeles Chargers, L.Angeles Rams)
   * Updated in-game scoreboard for Chargers (LA), Raiders (LVR), Rams (LAR)
-  * Updated Stadiums (Allegiant, St. Farm)
+  * Updated Stadiums (Allegiant, St. Farm, Sofi)
   * Updated Redskins to WFB Team
   * Updated Coaches
-  * Updated Free Agents
   * Bumped Franchise Salary Cap $198.2M
   * Franchise Includes 2022-2023 Schedule
-  * Includes Xbox, PS2, PS3 formats
   * Global attribute reduction
 _____
 ## Roster Downloads
