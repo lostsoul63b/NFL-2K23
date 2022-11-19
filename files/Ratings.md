@@ -48,7 +48,7 @@ _____
  * Follow your current transfer method and use the game saves in the Xbox folders (Fran/Ros)
 _____ 
 ## Credits
-*This file is a collaborative effort from the NFL2K5 Modding Community. Big Credit to LostsouL, BAD_AL, CujoMatty, JSK, SteelPro43, djsteveo627 and anyone else who's helped contribute to this years Roster project.*
+*This file is a collaborative effort from the NFL2K5 Modding Community. Big Credit to LostsouL, BAD_AL, CujoMatty, JSK, SteelPro43, djsteveo627, nemo and anyone else who's helped contribute to this years Roster project.*
 
 _____
 If you find issues or have questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
