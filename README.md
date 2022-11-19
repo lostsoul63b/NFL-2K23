@@ -40,8 +40,25 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 ---------
 ## Future Releases
 * **NFL 2K23 v3.0 (TBD)**
-  * Details Soon
-
+  * Added Amazon TNF Broadcast
+  * Added ESPN+ Broadcast
+  * Added NBC SNF Broadcast
+  * Added CAR Field Logo
+  * Added GB All White Uni
+  * Added TEN All Navy Uni
+  * Added HOU Battle Red Uni
+  * Updated Coach apparel
+  * Updated Uniforms
+  * Updated Jersey Font
+  * Updated Stadiums
+  * Updated Endzones
+  * Updated Field logos for WAS + CLE
+  * Updated Endzones (49ers, Broncos, Browns, Buccaneers, Cardinals, Chiefs, Eagles, Jaguars, Patriots, Redskins)
+  * Updated Fans
+  * Updated Sidelines
+  * Updated Cyberfaces
+  * Includes Camp, Week 1 and Week 7 rosters
+  * Includes Utilities
 ---------
 ## MOD Team Credits
 **Special thanks and much** ![heart](https://user-images.githubusercontent.com/69597675/125808838-b20315aa-b53f-41a2-b31a-691d685fb1df.png) to the entire mod team that helped bring this mod to life!
