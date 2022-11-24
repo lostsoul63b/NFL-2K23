@@ -31,8 +31,8 @@ You’ll see conference games towards the end of the schedule. Also, you never p
 #### Make sure you download the correct version (AVX2 / SSE4) to match your existing NFL 2K23 installation
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R1 | AVX2 | November 23, 2022  | Supports Newer CPU's | [2KCFB Add-on](https://www.mediafire.com/file/o5kcka67hksbkna/NCAA_2K23_R1_Setup.exe/file) | [Tutorial]() |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R1 | SSE4 | November 23, 2022  | Supports Older CPU's | [2KCFB Add-on](https://www.mediafire.com/file/cff8p29u75iyt4w/NCAA_2K23_R1_SSE4_Setup.exe/file) | [Tutorial]() |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R1 | AVX2 | November 23, 2022  | Supports Newer CPU's | [2KCFB Add-on]() | [Tutorial]() |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R1 | SSE4 | November 23, 2022  | Supports Older CPU's | [2KCFB Add-on]() | [Tutorial]() |
 | ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | R1 | N/A | November 23, 2022 |  | [Xbox](https://www.mediafire.com/folder/y5fczc0k9lt2m/NCAA_2K_Mods_for_Xbox_Series_X%7CS) | [Tutorial](https://youtu.be/sYd20cjqB6k) |
 
 
