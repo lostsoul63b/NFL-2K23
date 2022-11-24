@@ -16,8 +16,6 @@
 ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
 [Click here for NFL 4K23](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/4K23Mod/4K23Mod.md)
 
-![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
-[Click here for NCAA 2K23](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/2KCFBMod/2KCFB.md)
 
 ---------
 ## Follow for updates and information
