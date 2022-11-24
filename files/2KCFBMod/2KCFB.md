@@ -28,6 +28,7 @@ You’ll see conference games towards the end of the schedule. Also, you never p
 -----
 
 ## Download
+#### Make sure you download the correct version (AVX2 / SSE4) to match your existing NFL 2K23 installation
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R1 | AVX2 | November 23, 2022  | Supports Newer CPU's | [2KCFB Add-on](https://www.mediafire.com/file/o5kcka67hksbkna/NCAA_2K23_R1_Setup.exe/file) | [Tutorial]() |
