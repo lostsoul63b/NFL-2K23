@@ -35,7 +35,7 @@ _____
 | NFL 2023 Preseason | [Ros + Fran](https://www.mediafire.com/file/gzl20hc7lpaln13/NFL2023_CampRatings.zip/file) | M23 launch ratings | [Camp Vid](https://youtu.be/2D6xDZzjo3Y) |
 | NFL 2023 Week 1 | [Ros + Fran](https://www.mediafire.com/file/dap81b057ls5ac3/NFL2023_Week1Ratings.zip/file) | Week 1 Madden Ratings | [Week 1 Vid](https://youtu.be/qyNHOAFul4o) |
 | NFL 2023 Week 7 | [Ros + Fran](https://www.mediafire.com/file/ab9qk64gsrngun5/NFL2023_Week7Ratings.zip/file) | Week 7 Madden Ratings | [Week 7 Vid](https://youtu.be/LEnkW0Pyb_g) |
-| NFL 2023 Week 7 | [Ros + Fran](https://www.mediafire.com/file/vqvy9042lpiigqk/NFL2023_Week12Ratings.zip/file) | Week 12 Madden Ratings | [Coming Soon]() |
+| NFL 2023 Week 12 | [Ros](https://www.mediafire.com/file/vqvy9042lpiigqk/NFL2023_Week12Ratings.zip/file) | Week 12 Madden Ratings | [Coming Soon]() |
  
 _____
 ## Installation
