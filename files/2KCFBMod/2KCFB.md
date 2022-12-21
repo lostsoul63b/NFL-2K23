@@ -32,7 +32,7 @@ You’ll see conference games towards the end of the schedule. Also, you never p
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R2 | N/A | December 21, 2022  |  | [CFB Add-on]() | [Tutorial]() |
-| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | R2 | N/A | December 20, 2022 |  | [Xbox](https://www.mediafire.com/folder/y5fczc0k9lt2m/NCAA_2K_Mods_for_Xbox_Series_X%7CS) | [Tutorial](https://youtu.be/sYd20cjqB6k) |
+| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | R2 | N/A | December 20, 2022 | [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/2KCFBMod/R2Changelog) | [Xbox](https://www.mediafire.com/folder/y5fczc0k9lt2m/NCAA_2K_Mods_for_Xbox_Series_X%7CS) | [Tutorial](https://youtu.be/sYd20cjqB6k) |
 
 
 ---------
