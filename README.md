@@ -43,7 +43,7 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 
 ---------
 ## Future Releases
-* **NFL 2K23 v3.0 (TBD)**
+* **NFL 2K23 v3.0 (12/22/22)**
   * Added Amazon TNF Broadcast
   * Added ESPN+ Broadcast
   * Added NBC SNF Broadcast
@@ -61,8 +61,8 @@ Future releases will include the PS controller buttons by default. The Xbox cont
   * Updated Fans
   * Updated Sidelines
   * Updated Cyberfaces
-  * Includes Camp, Week 1 and Week 7 rosters
-  * Includes Utilities
+  * Includes Camp, Week 1, Week 7 and Week 12 rosters
+  
 ---------
 ## MOD Team Credits
 **Special thanks and much** ![heart](https://user-images.githubusercontent.com/69597675/125808838-b20315aa-b53f-41a2-b31a-691d685fb1df.png) to the entire mod team that helped bring this mod to life!
