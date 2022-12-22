@@ -2,7 +2,7 @@
 
 ## ![NFL2K23](https://user-images.githubusercontent.com/69597675/172192229-e194ff6d-7e77-4fb6-bf1c-cdc124283313.png)
 
-## NFL 2023 Roster + Franchise
+## NFL 2023 Rosters
 ![2023Ratings](https://user-images.githubusercontent.com/69597675/209222908-8263def7-63ff-4904-83ad-f220aa7e94a2.png)
 
 ![2k231 - Copy](https://user-images.githubusercontent.com/69597675/173972939-d43b2b74-33e8-44c7-806e-5c4ee94d6f1d.jpg)
