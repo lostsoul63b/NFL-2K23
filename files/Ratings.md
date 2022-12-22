@@ -3,6 +3,8 @@
 ## ![NFL2K23](https://user-images.githubusercontent.com/69597675/172192229-e194ff6d-7e77-4fb6-bf1c-cdc124283313.png)
 
 ## NFL 2023 Roster + Franchise
+![2023Ratings](https://user-images.githubusercontent.com/69597675/209222908-8263def7-63ff-4904-83ad-f220aa7e94a2.png)
+
 ![2k231 - Copy](https://user-images.githubusercontent.com/69597675/173972939-d43b2b74-33e8-44c7-806e-5c4ee94d6f1d.jpg)
 
 ***Cover ART by [bloodycrows](https://mobile.twitter.com/abid_nabawi)***
@@ -49,7 +51,7 @@ _____
  * Follow your current transfer method and use the game saves in the Xbox folders (Fran/Ros)
 _____ 
 ## Credits
-*This file is a collaborative effort from the NFL2K5 Modding Community. Big Credit to LostsouL, BAD_AL, CujoMatty, JSK, SteelPro43, djsteveo627, nemo and anyone else who's helped contribute to this years Roster project.*
+*This file is a collaborative effort from the NFL2K5 Modding Community. Big Credit to LostsouL, BAD_AL, CujoMatty, egb11, JSK, SteelPro43, djsteveo627, nemo and anyone else who's helped contribute to this years Roster project.*
 
 _____
 If you find issues or have questions please join our ![Discord](https://user-images.githubusercontent.com/69597675/124640725-d1e88980-de5b-11eb-926d-ec5f55b19a62.png) [Discord](https://discord.gg/sBVXzYb)
