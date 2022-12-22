@@ -5,8 +5,6 @@
 ## NFL 2023 Rosters
 ![2023Ratings](https://user-images.githubusercontent.com/69597675/209222908-8263def7-63ff-4904-83ad-f220aa7e94a2.png)
 
-![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
-[Click here for GME Mod Pkgs](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/gme.md)
 _____
 
 ### NFL 2023 Ros + Fran Details
