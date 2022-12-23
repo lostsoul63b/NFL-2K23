@@ -34,12 +34,12 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 ## Available Releases
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v2.0 | AVX2 | August 19, 2022  | [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv2.0.txt)  | [AVX2 Full](https://www.mediafire.com/file/iki2tuqddh9k114/NFL2K23_v2.0_Setup.zip/file) | [Tutorial](https://youtu.be/NbRVVckw8tc) |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v2.0 | AVX2 | August 19, 2022  |  [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv2.0.txt) | [AVX2 Update](https://www.mediafire.com/file/pij4q8s4xw74n3s/NFL2K23_v2.0_Update.zip/file) | [Tutorial](https://youtu.be/NbRVVckw8tc) |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v2.0 | SSE4 | August 19, 2022  | [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv2.0.txt)  | [SSE4 Full](https://www.mediafire.com/file/9z4h02h7bagi36w/NFL2K23_v2.0_SSE4_Setup.zip/file) | [Tutorial](https://youtu.be/NbRVVckw8tc) |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v2.0 | SSE4 | August 19, 2022  |  [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv2.0.txt) | [SSE4 Update](https://www.mediafire.com/file/vsb4qc4i4dybvyp/NFL2K23_v2.0_SSE4_Update.zip/file) | [Tutorial](https://youtu.be/NbRVVckw8tc) |
-| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | v2.0 | N/A | August 19, 2022 | [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/Changelog%20V1.1.txt) | [Xbox](https://www.mediafire.com/file/h8h92et3sv8pv4v/NFL2K23+-+XSX+V2.zip/file) | [Tutorial](https://youtu.be/VT6Xvg5YHWo) |
-| ![android](https://user-images.githubusercontent.com/69597675/177371512-f864b1cc-8ad2-470c-a3be-7983edbb3f19.png) | v2.0 | N/A | August 19, 2022|  | [Android](https://www.mediafire.com/file/2fcijgbfyz717lt/NFL2K23_Android_v2.0.zip/file) | [Tutorial](https://youtu.be/uWMSRrcT554) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v3.0 | AVX2 | December 23, 2022  | [changelog]()  | [AVX2 Full]() | [Tutorial](https://youtu.be/NbRVVckw8tc) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v3.0 | AVX2 | December 23, 2022  |  [changelog]() | [AVX2 Update]() | [Tutorial](https://youtu.be/NbRVVckw8tc) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v3.0 | SSE4 | December 23, 2022  | [changelog]()  | [SSE4 Full]() | [Tutorial](https://youtu.be/NbRVVckw8tc) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v3.0 | SSE4 | December 23, 2022  | [changelog]() | [SSE4 Update]() | [Tutorial](https://youtu.be/NbRVVckw8tc) |
+| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | v3.0 | N/A | December 23, 2022 | [changelog]() | [Xbox]() | [Tutorial](https://youtu.be/VT6Xvg5YHWo) |
+| ![android](https://user-images.githubusercontent.com/69597675/177371512-f864b1cc-8ad2-470c-a3be-7983edbb3f19.png) | v3.0 | N/A | December 23, 2022|  | [Android]() | [Tutorial](https://youtu.be/uWMSRrcT554) |
 
 ---------
 ## Available JSGME MODS
@@ -58,7 +58,7 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 
 ---------
 ## Future Releases
-* **NFL 2K23 v3.0 (12/22/22)**
+* **NFL 2K23 v3.0 (12/23/22)**
   * Added Amazon TNF Broadcast
   * Added ESPN+ Broadcast
   * Added NBC SNF Broadcast
@@ -76,7 +76,7 @@ Future releases will include the PS controller buttons by default. The Xbox cont
   * Updated Fans
   * Updated Sidelines
   * Updated Cyberfaces
-  * Includes Camp, Week 1, Week 7 and Week 12 rosters
+  * New Roster + Franchise with more Legends
   
 ---------
 ## MOD Team Credits
