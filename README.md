@@ -1,6 +1,7 @@
 # ESPN NFL 2K23 - Football Resurrected
 
 ![2K23GH](https://user-images.githubusercontent.com/69597675/187812122-057fc7e0-0409-4d06-9828-417b87858845.jpg)
+![NFL2K23v3 0](https://user-images.githubusercontent.com/69597675/209337691-3f195c13-0afe-482a-8746-ae1d1cf4465d.png)
 
 **The 2K5 Mod Team is providing PC Football to the community by sharing the experience we all want! Enjoy ESPN NFL 2K5 in a completely new way with updated uniforms, stadiums, logos, and more!**
 
@@ -19,6 +20,8 @@
 ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
 [Click here for NCAA 2K23](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/2KCFBMod/2KCFB.md)
 
+![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
+[Visit nfl2kmod.com](https://www.nfl2kmod.com/)
 
 ---------
 ## Follow for updates and information
@@ -34,12 +37,12 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 ## Available Releases
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v2.0 | AVX2 | August 19, 2022  | [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv2.0.txt)  | [AVX2 Full](https://www.mediafire.com/file/iki2tuqddh9k114/NFL2K23_v2.0_Setup.zip/file) | [Tutorial](https://youtu.be/NbRVVckw8tc) |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v2.0 | AVX2 | August 19, 2022  |  [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv2.0.txt) | [AVX2 Update](https://www.mediafire.com/file/pij4q8s4xw74n3s/NFL2K23_v2.0_Update.zip/file) | [Tutorial](https://youtu.be/NbRVVckw8tc) |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v2.0 | SSE4 | August 19, 2022  | [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv2.0.txt)  | [SSE4 Full](https://www.mediafire.com/file/9z4h02h7bagi36w/NFL2K23_v2.0_SSE4_Setup.zip/file) | [Tutorial](https://youtu.be/NbRVVckw8tc) |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v2.0 | SSE4 | August 19, 2022  |  [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv2.0.txt) | [SSE4 Update](https://www.mediafire.com/file/vsb4qc4i4dybvyp/NFL2K23_v2.0_SSE4_Update.zip/file) | [Tutorial](https://youtu.be/NbRVVckw8tc) |
-| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | v2.0 | N/A | August 19, 2022 | [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/Changelog%20V1.1.txt) | [Xbox](https://www.mediafire.com/file/h8h92et3sv8pv4v/NFL2K23+-+XSX+V2.zip/file) | [Tutorial](https://youtu.be/VT6Xvg5YHWo) |
-| ![android](https://user-images.githubusercontent.com/69597675/177371512-f864b1cc-8ad2-470c-a3be-7983edbb3f19.png) | v2.0 | N/A | August 19, 2022|  | [Android](https://www.mediafire.com/file/2fcijgbfyz717lt/NFL2K23_Android_v2.0.zip/file) | [Tutorial](https://youtu.be/uWMSRrcT554) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v3.0 | AVX2 | December 23, 2022  | [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv3.0.txt)  | [AVX2 Full](https://www.mediafire.com/file/cqc5c71ij488c9p/NFL2K23_v3.0_Setup.zip/file) | [Tutorial](https://youtu.be/NbRVVckw8tc) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v3.0 | AVX2 | December 23, 2022  |  [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv3.0.txt) | [AVX2 Update](https://www.mediafire.com/file/tgglwquenpln770/NFL2K23_v3.0_Update.zip/file) | [Tutorial](https://youtu.be/NbRVVckw8tc) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v3.0 | SSE4 | December 23, 2022  | [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv3.0.txt)  | [SSE4 Full](https://www.mediafire.com/file/vzmnkervrnxapms/NFL2K23_v3.0_SSE4_Setup.zip/file) | [Tutorial](https://youtu.be/NbRVVckw8tc) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v3.0 | SSE4 | December 23, 2022  | [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv3.0.txt) | [SSE4 Update](https://www.mediafire.com/file/fzi6ih50dkd2gdg/NFL2K23_v3.0_SSE4_Update.zip/file) | [Tutorial](https://youtu.be/NbRVVckw8tc) |
+| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | v3.0 | N/A | December 23, 2022 | [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv3.0.txt) | [Xbox](https://www.mediafire.com/file/9qjlah62i486wqq/NFL+2K23+-+V3+XSX.zip/file) | [Tutorial](https://youtu.be/VT6Xvg5YHWo) |
+| ![android](https://user-images.githubusercontent.com/69597675/177371512-f864b1cc-8ad2-470c-a3be-7983edbb3f19.png) | v3.0 | N/A | December 23, 2022| [changelog](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/changelog/changelogv3.0.txt) | [Android](https://www.mediafire.com/file/wqynmu1zuw3e8p9/NFL2K23_Android_v3.0.zip/file) | [Tutorial](https://youtu.be/uWMSRrcT554) |
 
 ---------
 ## Available JSGME MODS
