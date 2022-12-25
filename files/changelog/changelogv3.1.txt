@@ -1,5 +1,5 @@
 v3.1
- - Added missing field logo textures for Browns, Panthers and Commanders
+ - Added missing bad weather field logo textures for Browns, Panthers and Commanders
 
 v3.0
  - Added Amazon TNF Broadcast
