@@ -60,7 +60,7 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Stadium- Raiders HOF | [Download](https://www.mediafire.com/file/wbcvsvzjkytoeli/Stadium_Raiders_HOF.zip/file) | | [Click-to-Watch]() |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Uniform- Eagles Black | [Download](https://www.mediafire.com/file/h1mb7lgehh8buct/Uni_Philadelphia_Eagles_All_Black_Color_Rush.zip/file) | | [Click-to-Watch]() |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Uniform- Giants 1980 | [Download](https://www.mediafire.com/file/17upvkkloor3616/Uni_New_York_Giants_1980.zip/file) | | [Click-to-Watch]() |
-| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Uniform- Hamlin Patch | [Download](https://www.mediafire.com/file/9ztby45aang5x8w/DamarHamlinUniformPatch.zip/file) | | [Click-to-Watch]() |
+| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Uniform- Hamlin Patch | [Download](https://www.mediafire.com/file/9ztby45aang5x8w/DamarHamlinUniformPatch.zip/file) | | [Click-to-Watch](https://youtu.be/SJB_d4tfQDY) |
 
 ---------
 ## Future Releases
