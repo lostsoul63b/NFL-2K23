@@ -51,6 +51,7 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 | :------------- | :------------- | :------------- | :------------- |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Generic Mod Enabler | [Download](https://www.mediafire.com/file/2ejkgnj5r5nb4hc/JSGME.zip/file) | |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Alternate Uniforms | [Download](https://drive.google.com/file/d/1KrtNF6BrmsDxnNvNItDK7uT0E6juktsx/view?usp=sharing) |  |
+| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | SEC College Championship | [Download]() | [Click-to-Watch]() |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Custom Endzones | [Download](https://www.mediafire.com/file/a5qvslyae4r3brs/GME_Endzones.zip/file) |  |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Helmets (by 4N63L) | [Download](https://www.mediafire.com/file/p5berxhboayw5ku/NFL2K23_Helmets_%2528by_4N63L%2529.zip/file) | [Click-to-Watch](https://youtu.be/oMYjNpCZBWk) |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Uniform- Texans Red | [Download](https://www.mediafire.com/file/z9gk9qazn4do8gh/Uni_Houston_Texans_Battle_Red.zip/file) |  |
