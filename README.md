@@ -65,7 +65,7 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 
 ---------
 ## Future Releases
-* **NFL 2K23 v3.0 (12/25/22)**
+* **NFL 2K23 v3.1 Patch (12/25/22)**
   * Added missing field logos for CLE, CAR, WAS
 
 * **NFL 2K23 v3.0 (12/22/22)**
