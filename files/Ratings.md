@@ -32,7 +32,7 @@ _____
 | NFL 2023 Week 1 | [Ros + Fran](https://www.mediafire.com/file/dap81b057ls5ac3/NFL2023_Week1Ratings.zip/file) | Week 1 Madden Ratings | [Wk1 Vid](https://youtu.be/qyNHOAFul4o) |
 | NFL 2023 Week 7 | [Ros + Fran](https://www.mediafire.com/file/ab9qk64gsrngun5/NFL2023_Week7Ratings.zip/file) | Week 7 Madden Ratings | [Wk7 Vid](https://youtu.be/LEnkW0Pyb_g) |
 | NFL 2023 Week 12 (v3.3) | [Ros + Fran](https://www.mediafire.com/file/r8pli5mukfm492y/NFL2023_Week12Ratings_v3.3.zip/file) | Week 12 Madden Ratings | [Wk12 Vid](https://youtu.be/TysswiDCvYo) |
-| NFL 2023 Week 18 | [Ros + Fran]() | Week 18 Madden Ratings | [Wk18 Vid]() |
+| NFL 2023 Week 18 | [Ros + Fran](https://www.mediafire.com/file/jhi7inotgizvajd/NFL2023_Week18Ratings.zip/file) | Week 18 Madden Ratings | [Wk18 Vid](https://youtu.be/prxvhKwh7Zw) |
  
 _____
 ## Installation
