@@ -53,6 +53,7 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Alternate Uniforms | [Download](https://drive.google.com/file/d/1KrtNF6BrmsDxnNvNItDK7uT0E6juktsx/view?usp=sharing) |  |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | SEC College Championship | [Download](https://www.mediafire.com/file/ufmwyo3r98xtlom/NCAA23_SEC_2023.zip/file) | [Click-to-Watch](https://youtu.be/XvpsocyO85g) |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Super Bowl LVII | [Download](https://www.mediafire.com/file/hswojwjp1i2wjpp/SuperBowl_LVII_Mod.zip/file) | [Click-to-Watch](https://youtu.be/nis0hLhXyZ4) |
+| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Classic Mod | [Download]() | [Click-to-Watch]() |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Custom Endzones | [Download](https://www.mediafire.com/file/a5qvslyae4r3brs/GME_Endzones.zip/file) |  |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Helmets (by 4N63L) | [Download](https://www.mediafire.com/file/p5berxhboayw5ku/NFL2K23_Helmets_%2528by_4N63L%2529.zip/file) | [Click-to-Watch](https://youtu.be/oMYjNpCZBWk) |
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Uniform- Texans Red | [Download](https://www.mediafire.com/file/z9gk9qazn4do8gh/Uni_Houston_Texans_Battle_Red.zip/file) |  |
@@ -67,7 +68,13 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 ---------
 ## Future Releases
 * **NFL 2K23 v3.1 Patch (12/25/22)**
-  * Added missing field logos for CLE, CAR, WAS
+  * Added missing CLE, CAR, WAS Field logos
+  * Added black taped shoes
+  * Updated Steelers endzone
+  * Added Damar Hamlin uniform patch (GME)
+  * Added Jags helmet memorial for Uche
+  * Added SuperBowl_LVII Mod (GME)
+  * Added Saints black helmets to all white color rush (GME)
 
 * **NFL 2K23 v3.0 (12/22/22)**
   * Added Amazon TNF Broadcast
