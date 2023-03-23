@@ -74,7 +74,6 @@ Future releases will include the PS controller buttons by default. The Xbox cont
   * Added SuperBowl_LVII Mod (GME)
   * Added Saints black helmets to all white color rush (GME)
   * Updated easy setup installer to allow multiple installs
-  * Update pkg will be zip to drag n drop
   * Fixed player height Week 18 Ros + Fran
 
 * **NFL 2K23 v3.0 (12/22/22)**
