@@ -1,5 +1,16 @@
 v3.1
- - Added missing bad weather field logo textures for Browns, Panthers and Commanders
+ - Added missing CLE, CAR, WAS Field logos
+ - Updated Steelers endzone
+ - Updated Browns pants
+ - Updated wrapped shoe texture
+ - Added Damar Hamlin uniform patch (GME)
+ - Added Jags helmet memorial for Uche
+ - Added SuperBowl_LVII Mod (GME)
+ - Added Saints black helmets to all white color rush (GME)
+ - Added Super Bowl LVII Mod + Roster
+ - Fixed player height Week 18 Ros + Fran
+ - Updated easy setup installer to allow multiple installs
+ - Update pkg will be zip to drag n drop
 
 v3.0
  - Added Amazon TNF Broadcast
